@@ -4,7 +4,7 @@ Shufumi killer implemented using mediapipe handtracking and glsl shader
 
 # Video
 
-[![Image2](https://raw.githubusercontent.com/iapafoto/CubeEvol/master/img/creature.png)](https://www.youtube.com/watch?v=koMgq2-sAQ0)
+[![Image2](https://github.com/iapafoto/shifumi/blob/main/demo/demo.png)](https://www.youtube.com/watch?v=koMgq2-sAQ0)
 
 - Mediapipe
 - GSL Shader
