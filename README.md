@@ -1,6 +1,6 @@
 # About
 
-Shufumi (Stone Paper Scissors) ultimate warrior implemented using mediapipe handtracking and a glsl shader
+Shufumi (Stone Paper Scissors) ultimate warrior implemented using [mediapipe handtracking](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker) and a [glsl shader](https://www.shadertoy.com/view/4cGBWm)
 
 # python
 
