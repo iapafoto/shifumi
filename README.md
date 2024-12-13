@@ -1,14 +1,23 @@
 # About
 
-Shufumi killer implemented using mediapipe handtracking and glsl shader
+Shufumi (Stone Paper Scissors) ultimate warrior implemented using mediapipe handtracking and a glsl shader
+
+# python
+
+mediapipe requires python version 3.9 - 3.12 (64-bit)
+
+```
+$ python -m pip install msvc-runtime
+$ python -m pip install mediapipe
+```
 
 # Video
 
-[![Image2](https://github.com/iapafoto/shifumi/blob/main/demo/demo.png)](https://www.youtube.com/watch?v=koMgq2-sAQ0)
+click the picture to open the short video demonstration 
 
-- Mediapipe
-- GSL Shader
+[![Image2](https://github.com/iapafoto/shifumi/blob/main/demo/demo.png)](https://www.youtube.com/watch?v=koMgq2-sAQ0)
 
 # License
 
 Licensed under the Apache License, Version 2.0. See LICENSE.txt.
+
